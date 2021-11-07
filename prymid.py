@@ -1,4 +1,4 @@
-row =4
+row =int(input("ENter the number of row :"))
 
 for i in range(1,row+1):
    pat =""
