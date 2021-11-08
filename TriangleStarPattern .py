@@ -1,4 +1,4 @@
-row = int(input("Enter the row of the pattern : "))
+row = int(input("Enter the number of rows in the pattern : "))
 for i in range(1,row+1):
     space =""
     for j in range(i,row):
